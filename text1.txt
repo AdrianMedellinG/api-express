@@ -1,0 +1,1 @@
+Texto leido desde text1.txt

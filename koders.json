@@ -1,0 +1,23 @@
+{
+    "mentors":[],
+    "koders": [
+        {
+            "name": "Adrian",
+            "modulo": "Backend",
+            "generacion": "19Js",
+            "edad": 36
+        },
+        {
+            "name": "Araceli",
+            "modulo": "React",
+            "generacion": "20Js",
+            "edad": 36
+        },
+        {
+            "name": "Gio",
+            "modulo": "Maquetado",
+            "generacion": "22Js",
+            "edad": 33
+        }
+    ]
+}
